@@ -52,3 +52,10 @@ $(document).ready(function(){
 ```
 
 Oh look at that! It's just a bunch of bleedin' nested calls to `window.setInterval()`.
+
+## Why This Is A Problem
+I'm sure there are differing opinions on this but I find it very irritating to be forced to sit through adverts whilst I wait for nothing to happen - I mean nothing in the sense that nothing logical is happening. The user is lied to and I'm sure in many cases wholly unaware that it should be instantaneous.
+
+There is a case for showing loading screens in some situations. Particularly over a decade ago when internet speeds were much slower than they are now. The concept of pregressive loading is not new, and can give the *illusion* of speed. But I find it hard to believe that this is one of those cases.
+
+Based on the code snippet above though, this is nothing more than wasting your time. Once the poxy loading bar has finished you are redirected - as in a whole new page is loaded - where it only takes a split second to load your account, all the images, scripts and render the page.
