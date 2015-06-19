@@ -10,7 +10,9 @@ I wish that every website I visited, every app I used, every program I downloade
 
 In reality it is nothing like this.
 
-It seems that the majority mobile site I visit has a sub-par user experience. The aim of this project is to capture evidence of this.
+It *seems* that the majority mobile site I visit has a sub-par user experience. The aim of this project is to capture evidence of this.
+
+There is the problem, it only *seems* this way. Without collated evidence how can we possibly tell for sure?
 
 ## Contributing
 
