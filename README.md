@@ -4,7 +4,7 @@
 
 **Do you get the unending urge to throw your phone in the bin whenever you use a mobile *friendly* website?**
 
-## Why Piss-Poor
+## Why Piss-Poor :question:
 
 I wish that every website I visited, every app I used, every program I downloaded could be a delightful and breezy experience.
 
@@ -14,7 +14,7 @@ It *seems* that the majority mobile site I visit has a sub-par user experience. 
 
 There is the problem, it only *seems* this way. Without collated evidence how can we possibly tell for sure?
 
-## Contributing
+## Contributing :metal:
 
 Have you had a piss-poor experience? I bet you have. It's time to take a fork and submit then awesome pull request!
 
@@ -28,7 +28,8 @@ Have you had a piss-poor experience? I bet you have. It's time to take a fork an
 ### Tools
 * http://recordit.co/ Fast screencasts with GIF & Twitter support.
 
-## Piss-Poor Disclaimer
+## Piss-Poor Disclaimer :smirk:
 Opinions expressed throughout this repository reflect nothing but the piss-poor attitude in which I got of bed on the morning of [Friday, 19<sup>th</sup> June, 2015](https://en.wikipedia.org/wiki/Portal:Current_events/2015_June_19).
 
 Sorry Jane.
+:couple:
