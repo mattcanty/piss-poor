@@ -18,7 +18,7 @@ After following the steps above you are taken through this fantastically crap bi
 
 Let us take a little look at the [source code](exhibit-b.html).
 
-If you're quick - not that quick, you have about ten seconds - you can grab the source code before you are redirected to your account. Check out the full source code about if you wish, but the bit we are interested in is here:
+If you're quick - not that quick, you have about ten seconds - you can grab the source code before you are redirected to your account. Check out the full source code above - [exhibit-b](exhibit-b.html) - if you wish, but the bit we are interested in is here:
 
 ```javascript
 $(document).ready(function(){
