@@ -52,3 +52,16 @@ $(document).ready(function(){
 ```
 
 Oh look at that! It's just a bunch of bleedin' nested calls to `window.setInterval()`.
+
+## Why This Is A Problem
+* It is irritating being forced to sit through adverts whilst waiting for nothing to happen. By that I mean nothing *logical* is happening.
+* The user is being lied to. All of these steps - loading, fetching, checking, etc - should be instanateous on the server.
+* It is making the internet a less wonderful place.
+
+## The Defense
+
+There is a case for showing loading screens in some situations.
+
+Over a decade ago internet speeds were much slower than they are now. Changing the perception of speed was sometimes used to make an *illusion* of things feeling faster. But I find it hard to believe that this is one of those cases.
+
+Based on the code snippet above though, this is nothing more than wasting your time. Once the poxy loading bar has finished you are redirected - as in a whole new page is loaded - where it only takes a split second to load your account, all the images, scripts and render the page.
