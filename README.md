@@ -33,3 +33,10 @@ Opinions expressed throughout this repository reflect nothing but the piss-poor 
 
 Sorry Jane.
 :couple:
+
+## TODO:
+
+* Carphone Warehouse - Ordered phone on Argos (store next door) website whilst standing at the front of the queue
+* 123-reg - What a shit website
+* TalkTalk (part 2) - Data breaches
+* Three - Voice mail fiasco
